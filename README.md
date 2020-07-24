@@ -1,4 +1,4 @@
-# chat
+# A Simple Chat Application
 
 ## Project setup
 ```
