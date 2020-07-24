@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h3>This is a very simple Chat Application </h3>
+    <h2>based on firebase, vuejs and vuex</h2>
   </div>
 </template>
